@@ -1,2 +1,3 @@
 # IBM-Data-Science
-Repo repo for online IBM data science course
+Repo for online IBM data science course
+All assignments to be uploaded to this public repository for review
